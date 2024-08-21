@@ -1,0 +1,767 @@
+<DATA>
+
+	<ROW>
+		<id_avion>1</id_avion>
+		<matricula>BOE1234</matricula>
+		<fabricante>Boeing</fabricante>
+		<modelo>737</modelo>
+		<numero_serie>SN737001</numero_serie>
+		<ano_fabricacion>2015</ano_fabricacion>
+		<tipo>Comercial</tipo>
+		<combustible>Jet-A</combustible>
+		<mtow>79015</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>840</velocidad_crucero>
+		<velocidad_maxima>876</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>2</id_avion>
+		<matricula>AIR5678</matricula>
+		<fabricante>Airbus</fabricante>
+		<modelo>A320</modelo>
+		<numero_serie>SN320567</numero_serie>
+		<ano_fabricacion>2018</ano_fabricacion>
+		<tipo>Comercial</tipo>
+		<combustible>Jet-A1</combustible>
+		<mtow>73500</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>828</velocidad_crucero>
+		<velocidad_maxima>871</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>3</id_avion>
+		<matricula>TUP0217</matricula>
+		<fabricante>Tupolev</fabricante>
+		<modelo>Tu-160</modelo>
+		<numero_serie>SN1600217</numero_serie>
+		<ano_fabricacion>2010</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>JP-8</combustible>
+		<mtow>275000</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>960</velocidad_crucero>
+		<velocidad_maxima>2220</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>4</id_avion>
+		<matricula>LOC8901</matricula>
+		<fabricante>Lockheed Martin</fabricante>
+		<modelo>F-22</modelo>
+		<numero_serie>SNF22001</numero_serie>
+		<ano_fabricacion>2016</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>JP-8</combustible>
+		<mtow>38000</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>950</velocidad_crucero>
+		<velocidad_maxima>2410</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>5</id_avion>
+		<matricula>BOE4321</matricula>
+		<fabricante>Boeing</fabricante>
+		<modelo>747</modelo>
+		<numero_serie>SN747432</numero_serie>
+		<ano_fabricacion>2013</ano_fabricacion>
+		<tipo>Comercial</tipo>
+		<combustible>Jet-A</combustible>
+		<mtow>447700</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>907</velocidad_crucero>
+		<velocidad_maxima>933</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>6</id_avion>
+		<matricula>AIR8765</matricula>
+		<fabricante>Airbus</fabricante>
+		<modelo>A380</modelo>
+		<numero_serie>SN380876</numero_serie>
+		<ano_fabricacion>2020</ano_fabricacion>
+		<tipo>Comercial</tipo>
+		<combustible>Jet-A1</combustible>
+		<mtow>560000</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>945</velocidad_crucero>
+		<velocidad_maxima>1020</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>7</id_avion>
+		<matricula>SUK1543</matricula>
+		<fabricante>Sukhoi</fabricante>
+		<modelo>Su-35</modelo>
+		<numero_serie>SNSU3515</numero_serie>
+		<ano_fabricacion>2017</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>TS-1</combustible>
+		<mtow>34500</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>1400</velocidad_crucero>
+		<velocidad_maxima>2500</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>8</id_avion>
+		<matricula>DAS1235</matricula>
+		<fabricante>Dassault</fabricante>
+		<modelo>Rafale</modelo>
+		<numero_serie>SNRF1235</numero_serie>
+		<ano_fabricacion>2019</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>JP-8</combustible>
+		<mtow>24500</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>1389</velocidad_crucero>
+		<velocidad_maxima>1912</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>9</id_avion>
+		<matricula>MIG1410</matricula>
+		<fabricante>Mikoyan</fabricante>
+		<modelo>MiG-29</modelo>
+		<numero_serie>SNMIG29010</numero_serie>
+		<ano_fabricacion>2011</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>TS-1</combustible>
+		<mtow>18500</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>2400</velocidad_crucero>
+		<velocidad_maxima>2445</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>10</id_avion>
+		<matricula>BOE5555</matricula>
+		<fabricante>Boeing</fabricante>
+		<modelo>777</modelo>
+		<numero_serie>SN777555</numero_serie>
+		<ano_fabricacion>2014</ano_fabricacion>
+		<tipo>Comercial</tipo>
+		<combustible>Jet-A</combustible>
+		<mtow>351534</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>905</velocidad_crucero>
+		<velocidad_maxima>950</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>11</id_avion>
+		<matricula>BOE7890</matricula>
+		<fabricante>Boeing</fabricante>
+		<modelo>767</modelo>
+		<numero_serie>SN767789</numero_serie>
+		<ano_fabricacion>2012</ano_fabricacion>
+		<tipo>Comercial</tipo>
+		<combustible>Jet-A</combustible>
+		<mtow>204120</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>850</velocidad_crucero>
+		<velocidad_maxima>880</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>12</id_avion>
+		<matricula>AIR3456</matricula>
+		<fabricante>Airbus</fabricante>
+		<modelo>A330</modelo>
+		<numero_serie>SN330345</numero_serie>
+		<ano_fabricacion>2017</ano_fabricacion>
+		<tipo>Comercial</tipo>
+		<combustible>Jet-A1</combustible>
+		<mtow>242000</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>870</velocidad_crucero>
+		<velocidad_maxima>913</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>13</id_avion>
+		<matricula>ANT4567</matricula>
+		<fabricante>Antonov</fabricante>
+		<modelo>An-225</modelo>
+		<numero_serie>SN225456</numero_serie>
+		<ano_fabricacion>2010</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>TS-1</combustible>
+		<mtow>640000</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>800</velocidad_crucero>
+		<velocidad_maxima>850</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>14</id_avion>
+		<matricula>LOC2345</matricula>
+		<fabricante>Lockheed Martin</fabricante>
+		<modelo>C-130</modelo>
+		<numero_serie>SNC130234</numero_serie>
+		<ano_fabricacion>2015</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>JP-8</combustible>
+		<mtow>70308</mtow>
+		<tipo_motor>Turboprop</tipo_motor>
+		<velocidad_crucero>643</velocidad_crucero>
+		<velocidad_maxima>671</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>15</id_avion>
+		<matricula>BOE6789</matricula>
+		<fabricante>Boeing</fabricante>
+		<modelo>787</modelo>
+		<numero_serie>SN787678</numero_serie>
+		<ano_fabricacion>2018</ano_fabricacion>
+		<tipo>Comercial</tipo>
+		<combustible>Jet-A</combustible>
+		<mtow>254011</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>903</velocidad_crucero>
+		<velocidad_maxima>954</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>16</id_avion>
+		<matricula>AIR9012</matricula>
+		<fabricante>Airbus</fabricante>
+		<modelo>A350</modelo>
+		<numero_serie>SN350901</numero_serie>
+		<ano_fabricacion>2021</ano_fabricacion>
+		<tipo>Comercial</tipo>
+		<combustible>Jet-A1</combustible>
+		<mtow>280000</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>911</velocidad_crucero>
+		<velocidad_maxima>945</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>17</id_avion>
+		<matricula>SUK6789</matricula>
+		<fabricante>Sukhoi</fabricante>
+		<modelo>Su-57</modelo>
+		<numero_serie>SNSU5767</numero_serie>
+		<ano_fabricacion>2020</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>TS-1</combustible>
+		<mtow>35000</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>1300</velocidad_crucero>
+		<velocidad_maxima>2600</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>18</id_avion>
+		<matricula>MIG5678</matricula>
+		<fabricante>Mikoyan</fabricante>
+		<modelo>MiG-35</modelo>
+		<numero_serie>SNMIG3556</numero_serie>
+		<ano_fabricacion>2018</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>TS-1</combustible>
+		<mtow>23500</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>1400</velocidad_crucero>
+		<velocidad_maxima>2400</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>19</id_avion>
+		<matricula>BOE3456</matricula>
+		<fabricante>Boeing</fabricante>
+		<modelo>707</modelo>
+		<numero_serie>SN707345</numero_serie>
+		<ano_fabricacion>1978</ano_fabricacion>
+		<tipo>Comercial</tipo>
+		<combustible>Jet-A</combustible>
+		<mtow>151320</mtow>
+		<tipo_motor>Turbojet</tipo_motor>
+		<velocidad_crucero>977</velocidad_crucero>
+		<velocidad_maxima>1008</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>20</id_avion>
+		<matricula>DAS7890</matricula>
+		<fabricante>Dassault</fabricante>
+		<modelo>Falcon 2000</modelo>
+		<numero_serie>SNF200078</numero_serie>
+		<ano_fabricacion>2015</ano_fabricacion>
+		<tipo>Comercial</tipo>
+		<combustible>Jet-A1</combustible>
+		<mtow>19105</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>851</velocidad_crucero>
+		<velocidad_maxima>876</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>21</id_avion>
+		<matricula>LOC3456</matricula>
+		<fabricante>Lockheed Martin</fabricante>
+		<modelo>F-35</modelo>
+		<numero_serie>SNF350345</numero_serie>
+		<ano_fabricacion>2017</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>JP-8</combustible>
+		<mtow>31750</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>1040</velocidad_crucero>
+		<velocidad_maxima>1930</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>22</id_avion>
+		<matricula>SUK4567</matricula>
+		<fabricante>Sukhoi</fabricante>
+		<modelo>Su-27</modelo>
+		<numero_serie>SNSU270456</numero_serie>
+		<ano_fabricacion>1985</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>TS-1</combustible>
+		<mtow>30000</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>1400</velocidad_crucero>
+		<velocidad_maxima>2500</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>23</id_avion>
+		<matricula>DAS5678</matricula>
+		<fabricante>Dassault</fabricante>
+		<modelo>Mirage 2000</modelo>
+		<numero_serie>SNM2000567</numero_serie>
+		<ano_fabricacion>2000</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>JP-8</combustible>
+		<mtow>17000</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>1300</velocidad_crucero>
+		<velocidad_maxima>2336</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>24</id_avion>
+		<matricula>EUR6789</matricula>
+		<fabricante>Eurofighter</fabricante>
+		<modelo>Typhoon</modelo>
+		<numero_serie>SNTYP6789</numero_serie>
+		<ano_fabricacion>2015</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>JP-8</combustible>
+		<mtow>23500</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>1400</velocidad_crucero>
+		<velocidad_maxima>2495</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>25</id_avion>
+		<matricula>CHA7890</matricula>
+		<fabricante>Chengdu</fabricante>
+		<modelo>J-20</modelo>
+		<numero_serie>SNJ200789</numero_serie>
+		<ano_fabricacion>2018</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>TS-1</combustible>
+		<mtow>37000</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>1300</velocidad_crucero>
+		<velocidad_maxima>2100</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>47</id_avion>
+		<matricula>BOE9012</matricula>
+		<fabricante>Boeing</fabricante>
+		<modelo>737 MAX</modelo>
+		<numero_serie>SN737MAX901</numero_serie>
+		<ano_fabricacion>2019</ano_fabricacion>
+		<tipo>Comercial</tipo>
+		<combustible>Jet-A</combustible>
+		<mtow>82000</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>834</velocidad_crucero>
+		<velocidad_maxima>876</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>48</id_avion>
+		<matricula>AIR1234</matricula>
+		<fabricante>Airbus</fabricante>
+		<modelo>A220</modelo>
+		<numero_serie>SNA220123</numero_serie>
+		<ano_fabricacion>2016</ano_fabricacion>
+		<tipo>Comercial</tipo>
+		<combustible>Jet-A1</combustible>
+		<mtow>60000</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>829</velocidad_crucero>
+		<velocidad_maxima>870</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>49</id_avion>
+		<matricula>LOC3444</matricula>
+		<fabricante>Lockheed Martin</fabricante>
+		<modelo>F-117 Nighthawk</modelo>
+		<numero_serie>SNF117234</numero_serie>
+		<ano_fabricacion>1990</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>JP-8</combustible>
+		<mtow>23300</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>993</velocidad_crucero>
+		<velocidad_maxima>1040</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>51</id_avion>
+		<matricula>DAS4567</matricula>
+		<fabricante>Dassault</fabricante>
+		<modelo>Neuron</modelo>
+		<numero_serie>SNNEU4567</numero_serie>
+		<ano_fabricacion>2012</ano_fabricacion>
+		<tipo>Experimental</tipo>
+		<combustible>JP-8</combustible>
+		<mtow>6500</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>980</velocidad_crucero>
+		<velocidad_maxima>1050</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>52</id_avion>
+		<matricula>BOE5678</matricula>
+		<fabricante>Boeing</fabricante>
+		<modelo>787-10 Dreamliner</modelo>
+		<numero_serie>SN78710B567</numero_serie>
+		<ano_fabricacion>2020</ano_fabricacion>
+		<tipo>Comercial</tipo>
+		<combustible>Jet-A</combustible>
+		<mtow>254011</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>903</velocidad_crucero>
+		<velocidad_maxima>954</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>53</id_avion>
+		<matricula>AIR6789</matricula>
+		<fabricante>Airbus</fabricante>
+		<modelo>A400M Atlas</modelo>
+		<numero_serie>SNA4006789</numero_serie>
+		<ano_fabricacion>2014</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>Jet-A1</combustible>
+		<mtow>141000</mtow>
+		<tipo_motor>Turboprop</tipo_motor>
+		<velocidad_crucero>781</velocidad_crucero>
+		<velocidad_maxima>780</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>54</id_avion>
+		<matricula>SUK7890</matricula>
+		<fabricante>Sukhoi</fabricante>
+		<modelo>Su-30</modelo>
+		<numero_serie>SNSU300789</numero_serie>
+		<ano_fabricacion>1996</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>TS-1</combustible>
+		<mtow>38800</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>1350</velocidad_crucero>
+		<velocidad_maxima>2120</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>55</id_avion>
+		<matricula>DAS8901</matricula>
+		<fabricante>Dassault</fabricante>
+		<modelo>Falcon 7X</modelo>
+		<numero_serie>SNF7X8901</numero_serie>
+		<ano_fabricacion>2007</ano_fabricacion>
+		<tipo>Comercial</tipo>
+		<combustible>Jet-A1</combustible>
+		<mtow>31500</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>953</velocidad_crucero>
+		<velocidad_maxima>953</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>56</id_avion>
+		<matricula>EUR9012</matricula>
+		<fabricante>Eurofighter</fabricante>
+		<modelo>Taranis</modelo>
+		<numero_serie>SNTAR9012</numero_serie>
+		<ano_fabricacion>2013</ano_fabricacion>
+		<tipo>Experimental</tipo>
+		<combustible>JP-8</combustible>
+		<mtow>15000</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>1000</velocidad_crucero>
+		<velocidad_maxima>1800</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>57</id_avion>
+		<matricula>CHA8901</matricula>
+		<fabricante>Chengdu</fabricante>
+		<modelo>J-20</modelo>
+		<numero_serie>SNJ200890</numero_serie>
+		<ano_fabricacion>2021</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>TS-1</combustible>
+		<mtow>37000</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>1300</velocidad_crucero>
+		<velocidad_maxima>2100</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>58</id_avion>
+		<matricula>VUL3456</matricula>
+		<fabricante>Avro</fabricante>
+		<modelo>Vulcan</modelo>
+		<numero_serie>SNVUL3456</numero_serie>
+		<ano_fabricacion>1956</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>AvGas</combustible>
+		<mtow>84000</mtow>
+		<tipo_motor>Turbojet</tipo_motor>
+		<velocidad_crucero>1010</velocidad_crucero>
+		<velocidad_maxima>1175</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>59</id_avion>
+		<matricula>CON4567</matricula>
+		<fabricante>Aérospatiale/BAC</fabricante>
+		<modelo>Concorde</modelo>
+		<numero_serie>SNCON4567</numero_serie>
+		<ano_fabricacion>1976</ano_fabricacion>
+		<tipo>Comercial</tipo>
+		<combustible>Jet-A</combustible>
+		<mtow>185070</mtow>
+		<tipo_motor>Turbojet</tipo_motor>
+		<velocidad_crucero>2180</velocidad_crucero>
+		<velocidad_maxima>2350</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>60</id_avion>
+		<matricula>STR5678</matricula>
+		<fabricante>Boeing</fabricante>
+		<modelo>KC-135 Stratotanker</modelo>
+		<numero_serie>SNKC1355678</numero_serie>
+		<ano_fabricacion>1960</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>Jet-A</combustible>
+		<mtow>146000</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>965</velocidad_crucero>
+		<velocidad_maxima>965</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>61</id_avion>
+		<matricula>B13456</matricula>
+		<fabricante>Rockwell</fabricante>
+		<modelo>B-1 Lancer</modelo>
+		<numero_serie>SNB113456</numero_serie>
+		<ano_fabricacion>1986</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>JP-8</combustible>
+		<mtow>216363</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>830</velocidad_crucero>
+		<velocidad_maxima>1370</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>62</id_avion>
+		<matricula>B25678</matricula>
+		<fabricante>Northrop Grumman</fabricante>
+		<modelo>B-2 Spirit</modelo>
+		<numero_serie>SNB225678</numero_serie>
+		<ano_fabricacion>1997</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>JP-8</combustible>
+		<mtow>181437</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>900</velocidad_crucero>
+		<velocidad_maxima>1030</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>68</id_avion>
+		<matricula>SR71234</matricula>
+		<fabricante>Lockheed</fabricante>
+		<modelo>SR-71 Blackbird</modelo>
+		<numero_serie>SNSR71234</numero_serie>
+		<ano_fabricacion>1966</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>JP-7</combustible>
+		<mtow>78000</mtow>
+		<tipo_motor>Ramjet</tipo_motor>
+		<velocidad_crucero>3300</velocidad_crucero>
+		<velocidad_maxima>3529</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>69</id_avion>
+		<matricula>XB70123</matricula>
+		<fabricante>Bell Aircraft</fabricante>
+		<modelo>X-1</modelo>
+		<numero_serie>SNX1123</numero_serie>
+		<ano_fabricacion>1946</ano_fabricacion>
+		<tipo>Experimental</tipo>
+		<combustible>AvGas</combustible>
+		<mtow>5443</mtow>
+		<tipo_motor>Rocket</tipo_motor>
+		<velocidad_crucero>1050</velocidad_crucero>
+		<velocidad_maxima>1050</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>70</id_avion>
+		<matricula>XB70234</matricula>
+		<fabricante>North American Aviation</fabricante>
+		<modelo>X-15</modelo>
+		<numero_serie>SNX2234</numero_serie>
+		<ano_fabricacion>1959</ano_fabricacion>
+		<tipo>Experimental</tipo>
+		<combustible>Liquid Oxygen</combustible>
+		<mtow>15500</mtow>
+		<tipo_motor>Rocket</tipo_motor>
+		<velocidad_crucero>6096</velocidad_crucero>
+		<velocidad_maxima>7274</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>71</id_avion>
+		<matricula>XV70123</matricula>
+		<fabricante>Lockheed Martin Skunk Works</fabricante>
+		<modelo>XV-1</modelo>
+		<numero_serie>SNXV1123</numero_serie>
+		<ano_fabricacion>2000</ano_fabricacion>
+		<tipo>Experimental</tipo>
+		<combustible>JP-8</combustible>
+		<mtow>28000</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>1100</velocidad_crucero>
+		<velocidad_maxima>1500</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>72</id_avion>
+		<matricula>XB70226</matricula>
+		<fabricante>Boeing</fabricante>
+		<modelo>X-32</modelo>
+		<numero_serie>SNX3234</numero_serie>
+		<ano_fabricacion>2000</ano_fabricacion>
+		<tipo>Experimental</tipo>
+		<combustible>Jet-A</combustible>
+		<mtow>54000</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>1070</velocidad_crucero>
+		<velocidad_maxima>1500</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>73</id_avion>
+		<matricula>VAL5678</matricula>
+		<fabricante>North American Aviation</fabricante>
+		<modelo>XB-70 Valkyrie</modelo>
+		<numero_serie>SNXB705678</numero_serie>
+		<ano_fabricacion>1964</ano_fabricacion>
+		<tipo>Experimental</tipo>
+		<combustible>JP-4</combustible>
+		<mtow>249000</mtow>
+		<tipo_motor>Turbojet</tipo_motor>
+		<velocidad_crucero>3000</velocidad_crucero>
+		<velocidad_maxima>3200</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>74</id_avion>
+		<matricula>GRI6789</matricula>
+		<fabricante>Saab</fabricante>
+		<modelo>JAS 39 Gripen</modelo>
+		<numero_serie>SNGRI6789</numero_serie>
+		<ano_fabricacion>1997</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>JP-5</combustible>
+		<mtow>16000</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>1470</velocidad_crucero>
+		<velocidad_maxima>2440</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>75</id_avion>
+		<matricula>F22A567</matricula>
+		<fabricante>Lockheed Martin</fabricante>
+		<modelo>F-22 Raptor</modelo>
+		<numero_serie>SNF22567</numero_serie>
+		<ano_fabricacion>2005</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>JP-8</combustible>
+		<mtow>38300</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>2410</velocidad_crucero>
+		<velocidad_maxima>2410</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>76</id_avion>
+		<matricula>F35A890</matricula>
+		<fabricante>Lockheed Martin</fabricante>
+		<modelo>F-35 Lightning II</modelo>
+		<numero_serie>SNF35890</numero_serie>
+		<ano_fabricacion>2016</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>JP-8</combustible>
+		<mtow>31800</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>1930</velocidad_crucero>
+		<velocidad_maxima>1930</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>77</id_avion>
+		<matricula>MIG29345</matricula>
+		<fabricante>Mikoyan</fabricante>
+		<modelo>MiG-29</modelo>
+		<numero_serie>SNMIG29345</numero_serie>
+		<ano_fabricacion>1983</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>TS-1</combustible>
+		<mtow>18400</mtow>
+		<tipo_motor>Turbofan</tipo_motor>
+		<velocidad_crucero>1500</velocidad_crucero>
+		<velocidad_maxima>2445</velocidad_maxima>
+	</ROW>
+
+	<ROW>
+		<id_avion>78</id_avion>
+		<matricula>U200123</matricula>
+		<fabricante>Lockheed Corporation</fabricante>
+		<modelo>U-2 Dragon Lady</modelo>
+		<numero_serie>SNU200123</numero_serie>
+		<ano_fabricacion>1955</ano_fabricacion>
+		<tipo>Militar</tipo>
+		<combustible>JP-4</combustible>
+		<mtow>12700</mtow>
+		<tipo_motor>Turbojet</tipo_motor>
+		<velocidad_crucero>805</velocidad_crucero>
+		<velocidad_maxima>900</velocidad_maxima>
+	</ROW>
+</DATA>

@@ -35,7 +35,7 @@ public class AvionController {
 	 * @param modelo
 	 * @param numeroSerie
 	 */
-	@PutMapping(value = "/avion/updateAvion/{modelo},{numeroSerie}", produces = MediaType.APPLICATION_JSON_VALUE)
+	@PutMapping(value = "/avion/updateAvion/{modelo}/{numeroSerie}", produces = MediaType.APPLICATION_JSON_VALUE)
 	void updateAvion(@PathVariable("modelo") String modelo, @PathVariable("numeroSerie") String numeroSerie) {
 		servicio.updateAvion(modelo, numeroSerie);
 	}
@@ -80,7 +80,7 @@ public class AvionController {
 	 * @param fin
 	 * @return
 	 */
-	@GetMapping(value = "/avion/byfechafabricacion/{inicio},{fin}")
+	@GetMapping(value = "/avion/byfechafabricacion/{inicio}/{fin}")
 	List<Avion> findAvionesByAnoFabricacionRango(@PathVariable("inicio") int inicio, @PathVariable("fin") int fin){
 		return servicio.findAvionesByAnoFabricacionRango(inicio, fin);
 	}

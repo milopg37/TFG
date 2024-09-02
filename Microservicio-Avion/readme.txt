@@ -7,18 +7,18 @@ POST 	--> 	Insertar
 PUT 	--> 	Actualizar
 DELETE 	--> 	Borrar
 
-http://localhost:8080/avion/						
-http://localhost:8080/avion/							
-http://localhost:8080/avion/	
-http://localhost:8080/avion/				
-http://localhost:8080/avion/			
-http://localhost:8080/avion/	
+http://localhost:8080/avion/ + {{una ruta del controller}}					
+http://localhost:8080/avion/ + {{una ruta del controller}}							
+http://localhost:8080/avion/ + {{una ruta del controller}}	
+http://localhost:8080/avion/ + {{una ruta del controller}}				
+http://localhost:8080/avion/ + {{una ruta del controller}}			
+http://localhost:8080/avion/ + {{una ruta del controller}}	
 
-	Antes de nada, crear la carpeta Scripts en resources -> scriptsSQL 
+	Antes de nada, crear la carpeta Scripts en resources -> scriptsSQL o en una carpeta externa al proyecto.
 	Donde estarán nuestros scripts de creacion de la tabla del modelo con sus columnas
 	Y el insert into para rellenar con algunos datos
 
-1- Crear proyecto y poner dependencias (Starter Web, Spring Data JPA)
+1- Crear proyecto y poner dependencias (Starter Web, Spring Data JPA, Thymeleaf, lo que necesitemos)
 
 2- Definir el modelo (package models) y mapearlo con anotaciones JPA a la tabla de la BD
 
@@ -44,10 +44,12 @@ http://localhost:8080/avion/
 		RestTemplate template() {
 		return new RestTemplate();
 		}
+		
+		(ESTO EN CASO DE QUE UN MICROSERVICE LLAMASE A OTRO, ES OPCIONAL)
 	
 	5.3 Modificar el application-properties si es necesario añadir algo extra 
-	Asignar un nº de puerto valido y libre: server.port=7000
+	Asignar un nº de puerto valido y libre: server.port=7000 (ejemplo)
 	
 6- Probar con Postman
-	http://localhost:9090/{URL}
-	El resto de microservicios van a tener que utilizar puertos diferentes
+	http://localhost:8080/{URL}
+	Los microservicios necesitan puertos diferentes entre ellos

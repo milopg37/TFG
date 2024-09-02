@@ -33,8 +33,8 @@ Y no he utilizado ningún tipo de software que requiera licencia. Para más info
 
 Si tienes preguntas o necesitas soporte, no dudes en contactarme:
 
-- 💻 Email: [TuEmail@ejemplo.com](camilop141@gmail.com)
-- 🗃️ GitHub: [TuPerfilGitHub](https://github.com/milopg37)
+- 💻 Email: camilop141@gmail.com
+- 🗃️ GitHub: https://github.com/milopg37
 
 ## Créditos 📚
 
